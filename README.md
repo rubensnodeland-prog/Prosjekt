@@ -1,4 +1,4 @@
-# Forsikringsapp full versjon
+# Forsikringsjobber
 
 ## Start lokalt
 ```bash
@@ -11,6 +11,4 @@ npm run dev
 npm run build
 ```
 
-## Deploy
-Last opp mappen til Vercel eller Netlify.
 Recover-logoen ligger i `public/recover.png`.
